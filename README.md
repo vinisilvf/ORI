@@ -14,3 +14,11 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 * Fazer um programa (ou ajustes no seu programa anterior) que recebe como entrada o arquivo de vocabulário e um arquivo de texto representando um documento. O programa deve devolver como saída a representação "bag of words" de tal arquivo texto.
 
+O programa utiliza com base na geração de vocabulario os arquivos :
+
+* Txt1.txt
+* Txt2.txt
+
+## 🛠️ Desenvolvido
+
+* Python
