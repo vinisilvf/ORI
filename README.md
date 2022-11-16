@@ -1,4 +1,4 @@
-# ORI
+# Processamento inicial de arquivos, geração de vocabulário e bag of words
 
 Inicializado alguns projetos básicos para melhoria de conhecimento nas linguagens de programação.
 
@@ -7,8 +7,6 @@ Inicializado alguns projetos básicos para melhoria de conhecimento nas linguage
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ### 📋 Projeto
-
-### Processamento inicial de arquivos, geração de vocabulário e bag of words
 
 * Fazer um programa que receba como entrada um arquivo contendo um texto qualquer e devolva como saída um arquivo de texto contendo o vocabulário (termos de indexação) de tal arquivo.
 
