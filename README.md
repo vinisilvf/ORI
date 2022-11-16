@@ -8,7 +8,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 📋 Projeto
 
-### TP1 - Processamento inicial de arquivos, geração de vocabulário e bag of words
+### Processamento inicial de arquivos, geração de vocabulário e bag of words
 
 * Fazer um programa que receba como entrada um arquivo contendo um texto qualquer e devolva como saída um arquivo de texto contendo o vocabulário (termos de indexação) de tal arquivo.
 
